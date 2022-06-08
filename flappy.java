@@ -14,6 +14,9 @@ public class flappy extends Actor
      */
     public void act()
     {
-        setImage
+        setImage("");
+        
+        
+        
     }
 }
